@@ -64,7 +64,7 @@ const ImgBanner = styled.img`
 const Banner = () => {
   return (
     <ContentBanner>
-      <Navbar/>
+      {/* <Navbar/> */}
       <Title>Proyecto Fa</Title>
       <ImgBanner src="/amarillo.png" />
     </ContentBanner>
