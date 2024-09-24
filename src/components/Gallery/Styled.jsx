@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ContainGallery = styled.article`
   background-color: #cfdadb;
   border: 5px solid blue;
-  height: 100vh;
+  height: 120vh;
   width: 100%;
   display: flex;
   flex-direction: column;
