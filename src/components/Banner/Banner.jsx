@@ -65,7 +65,7 @@ const Banner = () => {
   return (
     <ContentBanner>
       {/* <Navbar/> */}
-      <Title>Proyecto Fa</Title>
+      <Title>Eternal Focus</Title>
       <ImgBanner src="/amarillo.png" />
     </ContentBanner>
   );

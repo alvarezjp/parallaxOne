@@ -31,7 +31,7 @@ const Intro = () => {
   return (
     <IntroContainer>
    <Paragraph>Paginas que demuestran tu identidad empresarial</Paragraph>
-   <TitleIntro>Proyecto Fa</TitleIntro>
+   <TitleIntro>Eternal Focus</TitleIntro>
    <Paragraph>Asesoria de posicionamiento web</Paragraph>
    <Paragraph>Investigacion y diseño UX</Paragraph>
    <Paragraph>Diseño y desarrollo de paginas web</Paragraph>

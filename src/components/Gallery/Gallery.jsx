@@ -19,10 +19,11 @@ const Gallery = () => {
   return (
     <ContainGallery>
       <ContainText>
-        <TextInsta>@Familia-Fa</TextInsta>
-        <TitleSection>Code JesusAlvarez </TitleSection>
+        <TextInsta>@Eternal-Focus</TextInsta>
+        <TitleSection>Portafolio </TitleSection>
       </ContainText>
       <BoxGallery>
+        
         <Image
           img={
             "https://i.pinimg.com/564x/47/b0/35/47b035736726db2e9b915b3ac9001c3e.jpg"
